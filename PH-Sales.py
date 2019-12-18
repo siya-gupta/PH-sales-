@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  3 00:53:54 2019
 
-@author: Lenovo
-"""
 import warnings
 import itertools
 import pandas as pd
